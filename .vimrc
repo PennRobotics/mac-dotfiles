@@ -1,6 +1,7 @@
 set nocompatible
 filetype plugin indent on
 set t_Co=256
+colorscheme delek
 " Display whitespace at end-of-line
   highlight ExtraWhitespace ctermbg=darkgreen guibg=darkgreen
   autocmd ColorScheme * highlight ExtraWhitespace ctermbg=darkgreen guibg=darkgreen
